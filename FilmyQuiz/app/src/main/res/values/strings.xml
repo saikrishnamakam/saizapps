@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FilmyQuiz</string>
+    <string name="question_alluarjun">Dj is the Blockbuster Movie of the Allu Arjun ?</string>
+    <string name="question_vijay">Fighter is the next movie of Vijay Devarkonada ?</string>
+    <string name="question_rashmika">Rashmika Mandanna never done a single movie with Vijay ?</string>
+    <string name="question_geethagovindam">Movie Geetha Govindam is produced by GeethaArts</string>
+    <string name="question_arjunreddy">Arjun Reddy is remaked in hindi with name Aditya Verma</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">InCorrect</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="no_previous_question">No previous questions available</string>
+</resources>
